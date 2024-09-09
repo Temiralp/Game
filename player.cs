@@ -4,6 +4,18 @@ Healht++
 
     void dash()
     {
+gamemanager.main.ui();
+
+
+-
+-
+-
+-
+
+-
+-
+-
+
 
     }
 
