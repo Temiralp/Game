@@ -1,7 +1,14 @@
 public class Player{
+
 Healht++
 
-void run(){
+    void dash()
+    {
+
+    }
+
+
+    void run(){
 
 
 
@@ -20,7 +27,4 @@ void attack(){
 }
 
 
-void dash()
-{
 
-}
