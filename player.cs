@@ -1,7 +1,10 @@
 public class Player{
+    void dash()
+    {
 
+    }
 
-void run(){
+    void run(){
 
 
 
@@ -20,7 +23,4 @@ void attack(){
 }
 
 
-void dash()
-{
 
-}
