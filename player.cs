@@ -18,3 +18,9 @@ void attack(){
 
 
 }
+
+
+void dash()
+{
+
+}
